@@ -5,3 +5,4 @@ for vards in vardi:
     for i in range(len(vards)):
         if vards[i]>'A' and vards[i]<'Z':
             drukato_sk+=1
+    print(drukato_sk)
